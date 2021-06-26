@@ -13,7 +13,7 @@ are the functionalities of the system:
 
 ## The Project
 
-Djangoframework in pycharmIDE python HTML5,DTL,restApi 
+Djangoframework in pycharmIDE python HTML5,DTL,restApi ,sql lite
 
 ### requirements
 - basic python djangosetup,restApi 
