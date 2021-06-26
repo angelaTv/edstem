@@ -1,6 +1,6 @@
 # edstem
 
-- Objectives
+##### Objectives
 Develop the REST API endpoints for a simple Contact Management System. The following
 are the functionalities of the system:
 - 1. As a user, I should be able to create a contact with the following data
@@ -10,6 +10,8 @@ are the functionalities of the system:
 - d. Email
 - 2. As a user I should be able to see all contacts created
 - 3. As a user I should be able to delete a specific contact
+
+## The Project
 
 Djangoframework in pycharmIDE python HTML5,DTL,restApi 
 
