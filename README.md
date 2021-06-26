@@ -13,4 +13,4 @@ Djangoframework in pycharmIDE python HTML5,DTL,restApi
 
 ## Rest Api Contact Management System
 - in the browser go to http://127.0.0.1:8000/CmsRest/contactcreated (localhost/CmsRest/contactcreated) to add contact/viewcontact
--i n the html form enter details and click POST
+- in the html form enter details and click POST
